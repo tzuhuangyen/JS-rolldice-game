@@ -1,4 +1,4 @@
-# JS-rolldice-game
+# JS-rolldice-game (https://tzuhuangyen.github.io/JS-rolldice-game/)
 The code provided is a JavaScript program for a dice game. Here is a summary of the code:
 - The code starts with the initialization of various variables and elements used in the game.
 - The  `init()`  function is responsible for setting the initial state of the game, including scores, current score, active player, and playing status.
